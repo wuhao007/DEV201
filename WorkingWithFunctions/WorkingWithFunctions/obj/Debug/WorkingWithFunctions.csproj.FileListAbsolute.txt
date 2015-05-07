@@ -18,3 +18,4 @@ C:\Users\wuhao\Documents\GitHub\DEV201\WorkingWithFunctions\WorkingWithFunctions
 C:\Users\wuhao\Documents\GitHub\DEV201\WorkingWithFunctions\WorkingWithFunctions\obj\Debug\WorkingWithFunctions.csprojResolveAssemblyReference.cache
 C:\Users\wuhao\Documents\GitHub\DEV201\WorkingWithFunctions\WorkingWithFunctions\obj\Debug\WorkingWithFunctions.dll
 C:\Users\wuhao\Documents\GitHub\DEV201\WorkingWithFunctions\WorkingWithFunctions\obj\Debug\WorkingWithFunctions.pdb
+C:\Users\wuhao\Documents\GitHub\DEV201\WorkingWithFunctions\WorkingWithFunctions\bin\WorkingWithFunctions.dll.config
