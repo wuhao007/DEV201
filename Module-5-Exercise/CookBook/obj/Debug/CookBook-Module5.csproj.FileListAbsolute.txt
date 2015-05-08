@@ -1,0 +1,6 @@
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\obj\Debug\CookBook-Module5.csprojResolveAssemblyReference.cache
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\bin\CookBook-Module5.dll.config
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\bin\CookBook-Module5.dll
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\bin\CookBook-Module5.pdb
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\obj\Debug\CookBook-Module5.dll
+C:\Users\wuhao\Documents\GitHub\DEV201\Module-5-Exercise\CookBook\obj\Debug\CookBook-Module5.pdb
