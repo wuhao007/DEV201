@@ -15,11 +15,12 @@ class RecipeLoader {
             //TODO
             //Change RecipeCategories to use the new generic type.
             //Pass IRecipeCategory as the type
-            recipeCategories = new RecipeCategories();
+            recipeCategories = new RecipeCategories<IRecipeCategory>();
 
             //TODO
             //Create a new RecipeCategories object named recipeCategoriesSummary
             //and pass an IRecipeCategorySummary as the generic value.
+            var recipeCategoriesSummary = new RecipeCategories<IRecipeCategorySummary>();
             
             categories.forEach((category) => {
                 var recipeCategory = new RecipeCategory({
@@ -37,6 +38,8 @@ class RecipeLoader {
                 //object's items collection
                 //HINT: The constructor object passed must match the IRecipeCategorySummary interface
                 //HINT: Use the push() function
+                var newRecipeCategoriesSummary = new RecipeCategorySummary(category.title, category.details);
+                newRecipeCategoriesSummary
                 
             });
             
